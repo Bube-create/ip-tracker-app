@@ -30,8 +30,6 @@ const StyledHeader = styled.header`
 	height: 35vh;
 	background: url(${require("./images/pattern-bg.png")});
 	background-repeat: no-repeat;
-	// background-attachment: fixed;
-	// background-position: center;
 	text-align: center;
 	padding: 16px;
 	position: relative;
