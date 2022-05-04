@@ -3,23 +3,26 @@
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
+![Screenshot 2022-05-04 at 20-07-52 React App](https://user-images.githubusercontent.com/53101939/166808186-d55ea9b7-0897-4d73-801f-66766bf133c7.png)
 
 ### Links
 
--   Live Site URL:
+-   Live Site URL: [view site live](https://ip-tracker-app-rho.vercel.app/)
 
 ### Built with
 
+
+-   react leaflet
+-   [Geolcation API](https://geo.ipify.org/)
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
--   react leaflet
--   [Geolcation API](https://geo.ipify.org/)
+
 
 ### Continued development
 
-thinking of using a glbal state manager like redux to reduce the prop drilling
+thinking of using a global state manager like redux to reduce the prop drilling
 
 ## Author
 
